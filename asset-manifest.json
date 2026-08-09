@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/christian-portfolio/static/css/main.f479f08a.css",
-    "main.js": "/christian-portfolio/static/js/main.8b3114ec.js",
+    "main.js": "/christian-portfolio/static/js/main.19e053e4.js",
     "static/js/453.9415623e.chunk.js": "/christian-portfolio/static/js/453.9415623e.chunk.js",
     "static/media/cert3.jpg": "/christian-portfolio/static/media/cert3.e533e5d3d18234e64621.jpg",
     "static/media/cert2.jpg": "/christian-portfolio/static/media/cert2.f43e850522899a0512c4.jpg",
@@ -10,15 +10,16 @@
     "static/media/port2.jpg": "/christian-portfolio/static/media/port2.23ac3232412ae4df3ce2.jpg",
     "static/media/port1.jpg": "/christian-portfolio/static/media/port1.9454fdbc814413e6af8a.jpg",
     "static/media/port3.jpg": "/christian-portfolio/static/media/port3.6a8ef9130b8f91d384ef.jpg",
+    "static/media/port5.jpg": "/christian-portfolio/static/media/port5.0b7d35a18af970e46a83.jpg",
     "static/media/bg-dark.jpg": "/christian-portfolio/static/media/bg-dark.c0fae78d7e66fa907559.jpg",
     "static/media/bg-light.jpg": "/christian-portfolio/static/media/bg-light.b2121c01b11fa85fd16c.jpg",
     "index.html": "/christian-portfolio/index.html",
     "main.f479f08a.css.map": "/christian-portfolio/static/css/main.f479f08a.css.map",
-    "main.8b3114ec.js.map": "/christian-portfolio/static/js/main.8b3114ec.js.map",
+    "main.19e053e4.js.map": "/christian-portfolio/static/js/main.19e053e4.js.map",
     "453.9415623e.chunk.js.map": "/christian-portfolio/static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f479f08a.css",
-    "static/js/main.8b3114ec.js"
+    "static/js/main.19e053e4.js"
   ]
 }
